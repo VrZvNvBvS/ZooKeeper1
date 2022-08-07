@@ -1,7 +1,5 @@
 package com.nguyen.zookeeper1;
 
-import ch.qos.logback.core.net.SyslogOutputStream;
-
 // USE extends on Subclasses
 public class Gorilla extends Mammal{
 
